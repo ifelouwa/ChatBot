@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.env
+.env.local
+.env.*.local
+.data/
+.DS_Store
+# Local settings for the Claude desktop app
+.claude/
+# Vercel's local link to the project
+.vercel/
+# Any other local settings files, but keep the documented template
+.env*
+!.env.example
